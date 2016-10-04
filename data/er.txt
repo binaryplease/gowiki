@@ -1,0 +1,2 @@
+asd [a]
+<a href="/view/title" rel="nofollow">title</a>
